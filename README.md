@@ -1,1 +1,3 @@
 # SQL-QUERIES
+SELECT *
+FROM category
