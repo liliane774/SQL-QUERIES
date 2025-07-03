@@ -5,10 +5,7 @@ competition from streaming services such as Netflix and Amazon Prime, the Rockbu
 team is planning to use its existing movie licenses to launch an online video rental service in order to stay
 competitive. The objective is to obtain data- driven answers to use for future company strategy.
 
-CONTEXT[Exercise 3.10 Rockbuster .pdf](https://github.com/user-attachments/files/21045929/Exercise.3.10.Rockbuster.pdf)
-[Exercise 3.7. Joining Tables of Data.pdf](https://github.com/user-attachments/files/21045921/Exercise.3.7.Joining.Tables.of.Data.pdf)
-[Exercise 3.8.Performing Subqueries .pdf](https://github.com/user-attachments/files/21045915/Exercise.3.8.Performing.Subqueries.pdf)
-
+CONTEXT
 Business Questions
 ● What are top categories and movies are in Rockbuster?
 ● Which countries are Rockbuster customers based in?
