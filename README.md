@@ -1,6 +1,7 @@
-[Exercise 3.10 Rockbuster .pdf](https://github.com/user-attachments/files/21046296/Exercise.3.10.Rockbuster.pdf)
+
 Achievement 3 SQL project
-Achievement 3 SQL project
+
+Introduction
  Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiﬀ
 competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management
 team is planning to use its existing movie licenses to launch an online video rental service in order to stay
@@ -46,3 +47,5 @@ Your final project will be evaluated on your ability to:
 ● Present your SQL results to your technical colleagues using Excel and by creating a data dictionary.
 
 ● Create a professional project that you can add to your portfolio and show to employers.
+
+[Exercise 3.10 Rockbuster .pdf](https://github.com/user-attachments/files/21046296/Exercise.3.10.Rockbuster.pdf)
