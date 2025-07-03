@@ -1,3 +1,4 @@
+[Exercise 3.10 Rockbuster .pdf](https://github.com/user-attachments/files/21046296/Exercise.3.10.Rockbuster.pdf)
 Achievement 3 SQL project
 Achievement 3 SQL project
  Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiﬀ
